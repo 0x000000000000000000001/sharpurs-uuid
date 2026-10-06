@@ -11,3 +11,7 @@ output.bak/
 .purs-repl
 .purmeta/
 .DS_Store
+
+# Local scratch experiments
+/test.fs
+/test.fsx
